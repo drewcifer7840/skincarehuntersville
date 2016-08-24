@@ -1,0 +1,109 @@
+#wrapper960 {width:100%; max-width:960px; margin: 0 auto; background-color:white;}
+.row {min-width:100% !important;
+}
+h1 {font-size:2em;
+}
+p {color:#545454;}
+footer { background-color:black; color:white; margin-bottom:-10px; text-align:left; padding-left:15px; padding-top:5px; border:none; line-height:1.2em; font-size:.75em;
+}
+.reveal-modal { background-color: #EACAB8;
+}
+ button.secondary, .button.secondary { background-color: #F2F2F2; border-bottom: 0px; color: #333333; 
+}
+ button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus { background-color: #EACAB8; 
+}
+ button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus { color: #333333; 
+}
+.orbit-prev, .orbit-next, .orbit-slide-number, .orbit-timer {display:none;
+}
+.silvery{color:#545454;
+}
+.blackcenter{color:black; text-align:center;
+}
+a:hover.flesh {background-color:#EACAB8 !important;
+}
+.yelp {color:red; text-align:center; margin-top:1px; margin-bottom:0;
+}
+.continue {font-weight:bold; font-style:italic; font-size:.75em; color:red;
+ }
+.reveal-modal-bg {background-color:#545454;
+}
+.vb {margin-bottom:0; margin-top:0; width:100%; display:block; text-align:left; font-size:.85em;
+}
+.modalbutton {display:block; width:225px; margin-left:auto; margin-right:auto;
+}
+.vertical .button {color:black;
+}
+blockquote {color:#545454;
+  margin: 0 0 1.25em;
+  padding: 0.5625em 1.25em 0 .5em;
+  border-left: 3px solid black;}
+blockquote cite {color:black;
+}
+.fi-social-google-plus, .fi-social-facebook, .fi-social-twitter, .fi-social-linkedin {font-size:1.8em; color:white; 
+}
+.fi-social-google-plus:hover, .fi-social-facebook:hover, .fi-social-twitter:hover, .fi-social-linkedin:hover {color:#EACAB8; font-size:1.8em; 
+} 
+.fi-social-yelp {color:red;
+}
+.lead {color:black;
+}
+.hidestrong {font-weight:normal;
+}
+.hideem {font-style:normal;}
+.floatright {float:right;
+}
+
+.reviews {display:none;
+}
+.copyright p {color:white; margin-bottom:5px;
+}
+.sh {font-size:1.3em; font-weight:bold; margin-bottom:0; color:black; text-align:center;
+}
+.sd {font-size:.9em; font-weight:bold; font-style:italic; color:black;
+}
+.sp  {font-size:1.3em; font-weight:bold; margin-top:-20px; color:black; text-align:center;
+}
+ #site-links a {text-decoration:underline; line-height:1.5em;
+}
+
+@media only screen and (min-width: 1px) 
+{
+h1.mainheader { font-size: .75em; color:black; }
+p.subheader { font-size: 1.2em; color:black; }
+}
+@media only screen and (min-width: 340px) 
+{
+h1.mainheader { font-size: 1em; color:black; }
+p.subheader { font-size: 1.5em; color:black; }
+}
+@media only screen and (min-width: 455px) 
+{
+h1.mainheader { font-size: 1.4em; color:black; }
+p.subheader { font-size: 2em; color:black; }
+}
+@media only screen and (min-width: 600px) 
+{
+h1.mainheader { font-size: 1.75em; color:black; }
+}
+@media only screen and (min-width: 768px) 
+{
+h1.mainheader { font-size: 1.20em; color:black; }
+.appearsmall {display:none;}
+.clickcall {display: none;}
+}
+@media only screen and (min-width: 960px) 
+{
+h1.mainheader { font-size: 1.5em; color:black; }
+ body {background: rgb(234,202,184); background-color:#F0F0F0;
+			background-image: radial-gradient(#EACAB8 15%, transparent 96%),
+			radial-gradient(#EACAB8 15%, transparent 96%);
+			background-size:60px 60px;
+			background-position: 0 0, 30px 30px;}
+			
+}
+@media screen and (max-width: 768px) 
+{
+.hideyelp {display: none;}
+}
+
